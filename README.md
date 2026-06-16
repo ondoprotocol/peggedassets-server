@@ -139,3 +139,4 @@ Here is an example adapter with vannila code :
 
 
 ```
+<!-- updated deploy config -->
